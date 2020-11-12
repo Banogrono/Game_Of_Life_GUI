@@ -1,6 +1,9 @@
 # Game Of Life with graphical user interface
 
-![[GameOfLife.png]]
+<p align="center">
+    <img align="center" src="GameOfLife.png"></img>
+</p>
+
 
 No multithreading here. For now.
 
